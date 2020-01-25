@@ -16,7 +16,7 @@ name_length
 
 # Create a variable `now_doing` that is your name followed by "is programming!" 
 # (use the `paste()` function)
-now_doing <- paste(my_name
+now_doing <- paste(my_name)
 # Make the `now_doing` variable upper case
 
 
